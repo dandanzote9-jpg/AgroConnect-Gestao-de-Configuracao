@@ -65,7 +65,6 @@ O projeto utiliza o Git para controlar as versões dos artefatos e o GitHub como
 O ramo principal utilizado é `main`.
 
 As alterações são registradas por meio de commits, permitindo acompanhar o histórico e recuperar versões anteriores dos arquivos.
-
 ## 7. Histórico de Alterações
 
 | Versão| Descrição da alteração | Situação |
