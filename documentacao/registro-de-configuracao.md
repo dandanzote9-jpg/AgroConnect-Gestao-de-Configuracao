@@ -33,7 +33,7 @@ O gerenciamento de configuração deste projeto contempla:
 
 | Identificação | Artefato | Descrição |
 |---|---|---|
-| AGC-001 | README.md |Apresentação do projeto.|
+| AGC-001 | README.md | Documento de apresentação e identificação do projeto AgroConnect. |
 | AGC-002 | registro-de-configuracao.md | Documento de controle de configuração do projeto. |
 | AGC-003 | historico-de-alteracoes.md | Registro das modificações realizadas. |
 | AGC-004 | arquivo de teste ou funcionalidade | Artefato criado ou modificado na prática.. |
@@ -70,7 +70,7 @@ O histórico de versões permitirá acompanhar a evolução dos arquivos e recup
 
 ## 7. Histórico de Alterações
 
-| Versão | Alteração | Situação |
+| Versão| Descrição da alteração | Situação |
 |---|---|---|
 | 1.0 | Criação do repositório e do documento inicial de configuração. | Registrada |
 | 2.0 | Ampliação da documentação e inclusão dos critérios de controle de configuração. | Registrada |
