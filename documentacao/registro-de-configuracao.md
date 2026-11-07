@@ -91,7 +91,7 @@ O desenvolvimento e o gerenciamento de configuração deste projeto acadêmico s
 Cabe ao responsável:
 
 - Manter os artefatos organizados.
-- Registrar as alterações realizadas.
+- Responsável as alterações realizadas.
 - Preservar o histórico de versões.
 - Verificar as atualizações publicadas.
 - Manter a documentação atualizada.
@@ -108,4 +108,4 @@ O gerenciamento de configuração é fundamental para manter os artefatos organi
 
 A utilização do Git e do GitHub permite registrar modificações, acompanhar o histórico do projeto e facilitar o trabalho colaborativo, contribuindo para a organização e a confiabilidade do desenvolvimento.
 
-Com esta atividade, foi possível compreender a importância do controle de versões e da documentação adequada no gerenciamento de configuração de software. equipe.
+Com esta atividade, foi possível compreender a importância do controle de versões e da documentação adequada no gerenciamento de configuração de software.
