@@ -36,7 +36,7 @@ O gerenciamento de configuração deste projeto contempla:
 | AGC-001 | README.md | Documento de apresentação e identificação do projeto AgroConnect. |
 | AGC-002 | registro-de-configuracao.md | Documento de controle de configuração do projeto. |
 | AGC-003 | historico-de-alteracoes.md | Registro das modificações realizadas. |
-| AGC-004 | arquivo de teste ou funcionalidade | Artefato criado ou modificado na prática.. |
+| AGC-004 | arquivo-de-teste.md | Artefato criado ou modificado na prática.. |
 
 
 **Localização:** `pasta documentação`.
