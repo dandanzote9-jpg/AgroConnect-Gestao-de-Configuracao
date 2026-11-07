@@ -62,11 +62,9 @@ AgroConnect-Gestão-de-Configuração/
 
 O projeto utiliza o Git para controlar as versões dos artefatos e o GitHub como repositório remoto.
 
-A branch principal utilizada é `main`.
+O ramo principal utilizado é `main`.
 
-Cada alteração deverá ser registrada por meio de commits, contendo mensagens que identifiquem as modificações realizadas.
-
-O histórico de versões permitirá acompanhar a evolução dos arquivos e recuperar versões anteriores quando necessário.
+As alterações são registradas por meio de commits, permitindo acompanhar o histórico e recuperar versões anteriores dos arquivos.
 
 ## 7. Histórico de Alterações
 
@@ -107,6 +105,8 @@ Cabe ao responsável:
 
 ## 11. Considerações Finais
 
-O gerenciamento de configuração do AgroConnect permite organizar os artefatos, acompanhar as modificações e manter um histórico das versões do projeto.
+O gerenciamento de configuração é fundamental para manter os artefatos organizados, controlar as versões e garantir a rastreabilidade das alterações realizadas durante o desenvolvimento de software.
 
-A utilização do Git e do GitHub contribui para a rastreabilidade, organização e confiabilidade do desenvolvimento de software, além de possibilitar o compartilhamento dos artefatos entre os integrantes de uma equipe.
+A utilização do Git e do GitHub permite registrar modificações, acompanhar o histórico do projeto e facilitar o trabalho colaborativo, contribuindo para a organização e a confiabilidade do desenvolvimento.
+
+Com esta atividade, foi possível compreender a importância do controle de versões e da documentação adequada no gerenciamento de configuração de software. equipe.
