@@ -60,7 +60,7 @@ AgroConnect-Gestão-de-Configuração/
 
 ## 6. Controle de Versões
 
-O projeto utiliza o Git para controlar as versões dos artefatos e o GitHub como repositório remoto.
+O projeto utiliza o Git para controlar as versões dos arquivos e o GitHub como repositório remoto.
 
 O ramo principal utilizado é `main`.
 
@@ -104,8 +104,8 @@ Cabe ao responsável:
 
 ## 11. Considerações Finais
 
-O gerenciamento de configuração é fundamental para manter os artefatos organizados, controlar as versões e garantir a rastreabilidade das alterações realizadas durante o desenvolvimento de software.
+O gerenciamento de configuração é fundamental para manter os arquivos organizados, controlar as versões e garantir a rastreabilidade das alterações realizadas durante o desenvolvimento de software.
 
-A utilização do Git e do GitHub permite registrar modificações, acompanhar o histórico do projeto e facilitar o trabalho colaborativo, contribuindo para a organização e a confiabilidade do desenvolvimento.
+A utilização do Git e do GitHub permite o responsável pelo projeto fazer modificações, acompanhar o histórico do projeto e facilitar o trabalho colaborativo, contribuindo para a organização e a confiabilidade do desenvolvimento.
 
 Com esta atividade, foi possível compreender a importância do controle de versões e da documentação adequada no gerenciamento de configuração de software.
